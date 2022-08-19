@@ -1,5 +1,10 @@
+Technology and Marketing Professional.
+
 - 👋 Hi, I'm Gustavo Assis
 - 👀 Marketing Projects
 - 🌱 Software Engineer
-- 💞️ I'm looking for Networking...
-- 📫 Talk to me via WhatsApp: +55 97 99140-5836
+- 👾 TryHackMe
+
+🇧🇷🇵🇹🇦🇴🇪🇪🇨🇦🇺🇸
+
+⚠️ Don't understand Portuguese? No problem, talk to us!
