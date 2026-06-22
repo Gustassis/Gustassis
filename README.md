@@ -13,11 +13,6 @@ Engenheiro de Software especialista em Desenvolvimento Fullstack e Freelancer ap
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## 📊 Estatísticas
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustassis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustassis&layout=compact&theme=tokyonight)
 
 ## 📬 Contato
 
